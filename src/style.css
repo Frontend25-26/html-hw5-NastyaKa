@@ -36,6 +36,26 @@ body {
     padding: 24px 0;
 }
 
+#header .button-group :nth-child(1) {
+    width: 109.2px;
+}
+
+#header .button-group :nth-child(2) {
+    width: 117.6px;
+}
+
+#header .button-group :nth-child(3) {
+    width: 168px;
+}
+
+#header .button-group :nth-child(4) {
+    width: 92.41px;
+}
+
+#header .button-group :nth-child(5) {
+    width: 109.2px;
+}
+
 .button-group {
     display: flex;
     gap: 8px;
@@ -82,6 +102,18 @@ body {
     display: flex;
     flex-direction: column;
     gap: 40px;
+}
+
+#apple-btn {
+    width: 84px;
+}
+
+#microsoft-btn {
+    width: 117.6px;
+}
+
+#facebook-btn {
+    width: 109.2px;
 }
 
 .exp-header {
